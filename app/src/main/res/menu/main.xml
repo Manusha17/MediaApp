@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Pictures"
+        android:id="@+id/menu_pictures"
+        android:orderInCategory="1"
+        >
+    </item>
+
+    <item
+        android:title="Guessing Game"
+        android:id="@+id/menu_game"
+        android:orderInCategory="2"
+        >
+    </item>
+    <item
+        android:title="Register"
+        android:id="@+id/menu_reg"
+        android:orderInCategory="3"
+        >
+    </item>
+    <item
+        android:title="Login"
+        android:id="@+id/menu_login"
+        android:orderInCategory="4"
+        >
+    </item>
+</menu>

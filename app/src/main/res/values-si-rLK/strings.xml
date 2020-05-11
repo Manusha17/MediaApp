@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediaApp</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="register">REGISTER</string>
+    <string name="register_user">Register</string>
+    <string name="cnf_password">Confirm Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="login">LOGIN</string>
+    <string name="login_user">Login</string>
+    <string name="this_is_my_first_android_localization_project">Sinhala</string>
+</resources>

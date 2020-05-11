@@ -12,8 +12,8 @@ import android.widget.Toast;
 
 public class Login extends AppCompatActivity {
     int counter = 3;
-    EditText username = (EditText) findViewById(R.id.txt_email);
-    EditText password = (EditText) findViewById(R.id.txt_password);
+   // EditText username = (EditText) findViewById(R.id.txt_email);
+   // EditText password = (EditText) findViewById(R.id.txt_password);
     EditText formEmail;
     EditText formPassword;
     TextView register;
